@@ -1,0 +1,19 @@
+@font-face {
+	font-family: 'BungeeHairline';
+	src: url('BungeeHairline-Regular.ttf');
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	flex-wrap: wrap;
+	padding: 25vh;
+	background-color: #000;
+}
+
+#clock {
+	font-size: 10em;
+	font-family: 'BungeeHairline';
+	color: #fff;
+}
